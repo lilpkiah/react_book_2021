@@ -13,8 +13,8 @@ class Search extends React.Component {
 
 
     getSearchBook = async () => {
-        const ID_KEY = 'k5B9JMRsNrWvfZh2Du7d';
-        const SECRET_KEY = 'GbZfhMOFW6';
+        const ID_KEY = '.';
+        const SECRET_KEY = '.';
         const searchbook = this.state.value;
         try {
             if(searchbook === "") {
