@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_book_2021/static/css/main.2ba14686.chunk.css",
+    "main.js": "/react_book_2021/static/js/main.55f4d58b.chunk.js",
+    "main.js.map": "/react_book_2021/static/js/main.55f4d58b.chunk.js.map",
+    "runtime-main.js": "/react_book_2021/static/js/runtime-main.ed8ba835.js",
+    "runtime-main.js.map": "/react_book_2021/static/js/runtime-main.ed8ba835.js.map",
+    "static/js/2.fd653f1a.chunk.js": "/react_book_2021/static/js/2.fd653f1a.chunk.js",
+    "static/js/2.fd653f1a.chunk.js.map": "/react_book_2021/static/js/2.fd653f1a.chunk.js.map",
+    "index.html": "/react_book_2021/index.html",
+    "static/css/main.2ba14686.chunk.css.map": "/react_book_2021/static/css/main.2ba14686.chunk.css.map",
+    "static/js/2.fd653f1a.chunk.js.LICENSE.txt": "/react_book_2021/static/js/2.fd653f1a.chunk.js.LICENSE.txt",
+    "static/media/Search.css": "/react_book_2021/static/media/wallpapertip_biblioteca-wallpaper.1f5af339.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed8ba835.js",
+    "static/js/2.fd653f1a.chunk.js",
+    "static/css/main.2ba14686.chunk.css",
+    "static/js/main.55f4d58b.chunk.js"
+  ]
+}
